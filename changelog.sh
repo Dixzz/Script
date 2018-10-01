@@ -13,7 +13,6 @@ fi
 
 touch $Changelog
 
-
 echo ${bldppl}"Generating changelog..."${txtrst}
 
 for i in $(seq 7);
